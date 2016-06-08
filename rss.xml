@@ -4,7 +4,7 @@
         <description><![CDATA[Welcome to Crookie.com]]></description>
         <link>http://crookie.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 13:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 13:54:47 GMT</lastBuildDate>
         <atom:link href="http://crookie.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://crookie.com/so-i-took-this-picture-the-other-day-in-sunny-guernsey-round/index.html</link>
             <guid isPermaLink="false">8d96304f-150c-4dc6-8379-69e8d3f038fb</guid>
             <pubDate>Wed, 08 Jun 2016 13:41:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Ok so I've moved crookie.com over to The Grid so new stuff will be added shortly ;)</p>]]></description>
-            <link>http://crookie.com/ok-so-ive-moved-crookiecom-over-to-the-grid-so-new-stuff-w/index.html</link>
-            <guid isPermaLink="false">6a92a205-03c5-4b16-bbd0-1755b619f23f</guid>
-            <pubDate>Wed, 08 Jun 2016 13:05:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
