@@ -7,10 +7,12 @@ keywords: []
 description: >-
   Here are a few pics of my bikes, past and present. Unfortunately I didn't take
   pics of my bikes owned when I started riding so the ones here are only recent!
-datePublished: '2016-06-09T09:52:09.505Z'
-dateModified: '2016-06-09T09:48:38.735Z'
+datePublished: '2016-06-09T13:31:49.349Z'
+dateModified: '2016-06-09T13:31:45.697Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: >-
   _posts/2016-06-09-here-are-a-few-pics-of-my-bikes-past-and-present-unfortuna.md
 authors: []
