@@ -1,21 +1,21 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
   Here are the pictures of Betsy my '32 Model B Ford built by Jon Golding of
   Home Grown HotRods.
-datePublished: '2016-06-09T08:44:42.570Z'
-dateModified: '2016-06-09T08:44:39.378Z'
+datePublished: '2016-06-09T09:39:41.172Z'
+dateModified: '2016-06-09T08:54:38.145Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-06-09-here-are-the-pictures-of-betsy-my-32-model-b-ford-built-by.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-09-here-are-the-pictures-of-betsy-my-32-model-b-ford-built-by.md
 url: here-are-the-pictures-of-betsy-my-32-model-b-ford-built-by/index.html
 _type: Article
 
