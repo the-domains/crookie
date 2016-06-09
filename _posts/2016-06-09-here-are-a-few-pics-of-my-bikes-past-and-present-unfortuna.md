@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
   Here are a few pics of my bikes, past and present. Unfortunately I didn't take
   pics of my bikes owned when I started riding so the ones here are only recent!
-datePublished: '2016-06-09T09:39:30.997Z'
-dateModified: '2016-06-09T09:24:39.517Z'
+datePublished: '2016-06-09T09:52:09.505Z'
+dateModified: '2016-06-09T09:48:38.735Z'
 title: ''
 author: []
 sourcePath: >-
