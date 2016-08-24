@@ -1,7 +1,18 @@
+layout_spectrum: 0.039473757147789
+typography_spectrum: 0.7137176448013633
+color:
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  brandStrength: 0.28508650860749185
+  lightness: 0.18796752975322306
+  saturation: 0.9569169292226434
+  rhythmicContrast: 0.12422085204161704
 name: Crookie
 favicon: null
-layout_spectrum: 0.26338
-typography_spectrum: 0.41014
 title: Welcome to Crookie.com
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#4e5659'
-    - '#01111e'
-    - '#02455f'
-    - '#9e9fa3'
-  brandStrength: 0.3125
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.4145503626205027
 purpose: []
